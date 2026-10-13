@@ -1,0 +1,8 @@
+User Profile Information
+========================
+
+Height: 175.0 cm
+Weight: 78.6 kg
+Birthday: 1995-01-01 (Age: 31)
+Gender: Male
+Nickname: Adarsh

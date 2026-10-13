@@ -1,0 +1,91 @@
+Sport Records — 2026-09-15 to 2026-10-02 (12 records)
+========================
+
+1. Pool Swim — 2026-10-02
+   Location: Pool Swim
+   Time Window: startTimestamp=1790904778 | endTimestamp=1790908367
+   Duration: 59:50 | Distance: 725 m
+   Average Pace: 2:54 /km | Avg HR: 111 bpm | Calories: 540 kcal
+   LabelId: 480744123213578540 | SportType: 300
+
+2. Outdoor Run — 2026-09-30
+   Location: Bangalore Run
+   Start Coordinates: 13.541000, 78.128998
+   Time Window: startTimestamp=1790736590 | endTimestamp=1790738822
+   Duration: 37:12 | Distance: 5.02 km
+   Average Pace: 7:25 /km | Avg HR: 162 bpm | Calories: 512 kcal
+   LabelId: 480702293990211689 | SportType: 100
+
+3. Strength — 2026-09-29
+   Location: Strength
+   Time Window: startTimestamp=1790645880 | endTimestamp=1790649240
+   Duration: 55:36 | Sets: 21
+ | Avg HR: 105 bpm | Calories: 269 kcal
+   LabelId: 480702293990211688 | SportType: 402
+
+4. Outdoor Run — 2026-09-27
+   Location: Bangalore Run
+   Start Coordinates: 13.470000, 78.093002
+   Time Window: startTimestamp=1790469609 | endTimestamp=1790478548
+   Duration: 2:28:59 | Distance: 21.32 km
+   Average Pace: 6:59 /km | Avg HR: 175 bpm | Calories: 2292 kcal
+   LabelId: 480627414718775402 | SportType: 100
+
+5. Strength — 2026-09-26
+   Location: Strength
+   Time Window: startTimestamp=1790393253 | endTimestamp=1790396817
+   Duration: 56:25 | Sets: 28
+ | Avg HR: 99 bpm | Calories: 278 kcal
+   LabelId: 480624703795396909 | SportType: 402
+
+6. Outdoor Run — 2026-09-25
+   Location: Bangalore Run
+   Start Coordinates: 13.541000, 78.128998
+   Time Window: startTimestamp=1790301082 | endTimestamp=1790303190
+   Duration: 35:08 | Distance: 5.03 km
+   Average Pace: 6:59 /km | Avg HR: 162 bpm | Calories: 479 kcal
+   LabelId: 480580887612784842 | SportType: 100
+
+7. Gym Cardio — 2026-09-24
+   Location: Gym Cardio
+   Time Window: startTimestamp=1790254253 | endTimestamp=1790254955
+   Duration: 11:42
+ | Avg HR: 148 bpm | Calories: 128 kcal
+   LabelId: 480568031435587690 | SportType: 400
+
+8. Strength — 2026-09-24
+   Location: Strength
+   Time Window: startTimestamp=1790251732 | endTimestamp=1790254205
+   Duration: 38:15 | Sets: 20
+ | Avg HR: 115 bpm | Calories: 180 kcal
+   LabelId: 480568031435587689 | SportType: 402
+
+9. Outdoor Run — 2026-09-23
+   Location: Bangalore Run
+   Start Coordinates: 13.541000, 78.128998
+   Time Window: startTimestamp=1790130912 | endTimestamp=1790133283
+   Duration: 39:31 | Distance: 5.02 km
+   Average Pace: 7:52 /km | Avg HR: 148 bpm | Calories: 476 kcal
+   LabelId: 480535251437781098 | SportType: 100
+
+10. Gym Cardio — 2026-09-21
+   Location: Gym Cardio
+   Time Window: startTimestamp=1789976782 | endTimestamp=1789978095
+   Duration: 21:53
+ | Avg HR: 114 bpm | Calories: 160 kcal
+   LabelId: 480495992217567335 | SportType: 400
+
+11. Outdoor Run — 2026-09-20
+   Location: Dakshina Kannada Run
+   Start Coordinates: 13.387000, 75.349998
+   Time Window: startTimestamp=1789863937 | endTimestamp=1789874937
+   Duration: 2:51:10 | Distance: 19.01 km
+   Average Pace: 9:00 /km | Avg HR: 155 bpm | Calories: 2197 kcal
+   LabelId: 480463920346202222 | SportType: 100
+
+12. Strength — 2026-09-17
+   Location: Strength
+   Time Window: startTimestamp=1789649013 | endTimestamp=1789651556
+   Duration: 37:19 | Sets: 18
+ | Avg HR: 114 bpm | Calories: 209 kcal
+   LabelId: 480405949830430925 | SportType: 402

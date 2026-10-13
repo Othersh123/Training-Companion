@@ -1,0 +1,29 @@
+# --- Private: never commit -------------------------------------------------
+# Signing key and Claude's memory notes for the Mac move
+mac-migration/
+# Google OAuth client ID for Drive backup (see app/dart_defines.example.json)
+app/dart_defines.json
+# Any keystore or signing config
+*.keystore
+*.jks
+key.properties
+# Database copies pulled from the phone
+*.db
+*.db-journal
+# Device logs from the spike (noise, and device details)
+spike/phone-log-*.txt
+
+# --- Not ours to publish ------------------------------------------------------
+# Third-party design mockups used as visual references (see README, Design)
+appdesignreference/
+
+# --- Build output and tooling ---------------------------------------------
+build/
+.dart_tool/
+.gradle/
+local.properties
+*.iml
+.idea/
+.vscode/
+.DS_Store
+node_modules/

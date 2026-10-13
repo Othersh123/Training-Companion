@@ -1,0 +1,3 @@
+Activity FIT file download URL(s):
+1. 480868826783711233.fit
+   https://s3.coros.com/fit/000000000000000000/480868826783711233.fit

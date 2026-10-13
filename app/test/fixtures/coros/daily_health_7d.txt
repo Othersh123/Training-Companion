@@ -1,0 +1,51 @@
+Daily Health Data — Last 7 days | Resting HR: 49 bpm | HRV Baseline: 42 ms
+Note: sleep entries are dated by their wake-up day.
+
+--- 20260926 ---
+Steps: 9,945 | Calories: 809 kcal | Exercise: 1h 0min
+Stress: Avg 42
+Sleep Summary:
+  Total: 7h 7min | Deep: 1h 20min | Light: 3h 42min | REM: 1h 51min | Awake: 14 min
+  Sleep HR: Avg 51 bpm | Min 44 bpm | Max 75 bpm
+
+--- 20260927 ---
+Steps: 34,442 | Calories: 2,976 kcal | Exercise: 2h 39min | Floors: 14
+Stress: Avg 63
+Sleep Summary:
+  Total: 4h 37min | Deep: 42 min | Light: 3h 11min | REM: 32 min | Awake: 12 min
+  Sleep HR: Avg 51 bpm | Min 42 bpm | Max 109 bpm
+
+--- 20260928 ---
+Steps: 4,150 | Calories: 303 kcal | Exercise: 1 min | Floors: 8
+Stress: Avg 41
+Sleep Summary:
+  Total: 9h 47min | Deep: 1h 48min | Light: 5h 18min | REM: 1h 59min | Awake: 42 min
+  Sleep HR: Avg 56 bpm | Min 45 bpm | Max 102 bpm
+
+--- 20260929 ---
+Steps: 6,956 | Calories: 743 kcal | Exercise: 1h 0min
+Stress: Avg 40
+Sleep Summary:
+  Total: 6h 21min | Deep: 1h 21min | Light: 3h 38min | REM: 1h 4min | Awake: 18 min
+  Sleep HR: Avg 51 bpm | Min 45 bpm | Max 75 bpm
+
+--- 20260930 ---
+Steps: 8,524 | Calories: 823 kcal | Exercise: 40 min | Floors: 4
+Stress: Avg 47
+Sleep Summary:
+  Total: 8h 11min | Deep: 2h 15min | Light: 4h 18min | REM: 1h 18min | Awake: 20 min
+  Sleep HR: Avg 50 bpm | Min 44 bpm | Max 85 bpm
+
+--- 20261001 ---
+Steps: 8,469 | Calories: 547 kcal | Exercise: 1 min
+Stress: Avg 42
+Sleep Summary:
+  Total: 7h 31min | Deep: 1h 30min | Light: 4h 1min | REM: 1h 38min | Awake: 22 min
+  Sleep HR: Avg 50 bpm | Min 45 bpm | Max 86 bpm
+
+--- 20261002 ---
+Steps: 3,364 | Calories: 864 kcal | Exercise: 1h 0min | Floors: 16
+Stress: Avg 56
+Sleep Summary:
+  Total: 55 min | Deep: 0 min | Light: 46 min | REM: 4 min | Awake: 5 min
+  Sleep HR: Avg 69 bpm | Min 60 bpm | Max 82 bpm

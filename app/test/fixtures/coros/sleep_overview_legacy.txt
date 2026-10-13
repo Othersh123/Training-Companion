@@ -1,0 +1,430 @@
+Sleep Overview
+========================
+Note: each record below is dated by its wake-up day.
+
+2026-07-10
+Sleep Score: 86
+Daily Sleep: 6h 8min (incl. naps)
+Main Sleep: 6h 28min
+Deep Sleep Ratio: 27%
+Light Sleep Ratio: 51%
+REM Ratio: 17%
+Awake Ratio: 5%
+Awake Time: 20 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-07-09 23:53 - 2026-07-10 06:21
+Naps Total: 0 min
+
+2026-07-11
+Sleep Score: 63
+Daily Sleep: 5h 43min (incl. naps)
+Main Sleep: 5h 52min
+Deep Sleep Ratio: 29%
+Light Sleep Ratio: 61%
+REM Ratio: 7%
+Awake Ratio: 3%
+Awake Time: 9 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-11 00:38 - 2026-07-11 06:30
+Naps Total: 0 min
+
+2026-07-12
+Sleep Score: 88
+Daily Sleep: 6h 47min (incl. naps)
+Main Sleep: 7h 5min
+Deep Sleep Ratio: 16%
+Light Sleep Ratio: 68%
+REM Ratio: 12%
+Awake Ratio: 4%
+Awake Time: 18 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-12 00:07 - 2026-07-12 07:12
+Naps Total: 0 min
+
+2026-07-13
+Sleep Score: 45
+Daily Sleep: 4h 36min (incl. naps)
+Main Sleep: 4h 57min
+Deep Sleep Ratio: 30%
+Light Sleep Ratio: 54%
+REM Ratio: 9%
+Awake Ratio: 7%
+Awake Time: 21 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-07-12 23:29 - 2026-07-13 04:26
+Naps Total: 0 min
+
+2026-07-14
+Sleep Score: 80
+Daily Sleep: 8h 7min (incl. naps)
+Main Sleep: 8h 4min
+Deep Sleep Ratio: 28%
+Light Sleep Ratio: 58%
+REM Ratio: 10%
+Awake Ratio: 4%
+Awake Time: 18 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-13 23:04 - 2026-07-14 07:08
+Naps Total: 21 min (includes legacy reported durations)
+Nap Window: 1982-07-14 16:21 - 1982-07-14 16:42
+
+2026-07-15
+Sleep Score: 42
+Daily Sleep: 6h 52min (incl. naps)
+Main Sleep: 8h 12min
+Deep Sleep Ratio: 23%
+Light Sleep Ratio: 57%
+REM Ratio: 4%
+Awake Ratio: 16%
+Awake Time: 1h 20min
+Awake Count (>5 min): 2
+Main Sleep Window: 2026-07-15 00:15 - 2026-07-15 08:27
+Naps Total: 0 min
+
+2026-07-16
+Sleep Score: 93
+Daily Sleep: 6h 56min (incl. naps)
+Main Sleep: 6h 13min
+Deep Sleep Ratio: 28%
+Light Sleep Ratio: 55%
+REM Ratio: 14%
+Awake Ratio: 3%
+Awake Time: 13 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-15 23:31 - 2026-07-16 05:44
+Naps Total: 56 min (includes legacy reported durations)
+Nap Window: 1982-07-16 15:27 - 1982-07-16 16:23
+
+2026-07-17
+Sleep detail for this day is not available yet.
+
+2026-07-18
+Sleep Score: 96
+Daily Sleep: 7h 11min (incl. naps)
+Main Sleep: 7h 3min
+Deep Sleep Ratio: 28%
+Light Sleep Ratio: 49%
+REM Ratio: 20%
+Awake Ratio: 3%
+Awake Time: 11 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-17 22:55 - 2026-07-18 05:58
+Naps Total: 19 min (includes legacy reported durations)
+Nap Window: 1982-07-18 13:35 - 1982-07-18 13:54
+
+2026-07-19
+Sleep Score: 82
+Daily Sleep: 8h 31min (incl. naps)
+Main Sleep: 9h 7min
+Deep Sleep Ratio: 20%
+Light Sleep Ratio: 53%
+REM Ratio: 20%
+Awake Ratio: 7%
+Awake Time: 36 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-07-18 23:04 - 2026-07-19 08:11
+Naps Total: 0 min
+
+2026-07-20
+Sleep Score: 76
+Daily Sleep: 6h 26min (incl. naps)
+Main Sleep: 6h 50min
+Deep Sleep Ratio: 15%
+Light Sleep Ratio: 57%
+REM Ratio: 22%
+Awake Ratio: 6%
+Awake Time: 24 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-07-20 00:07 - 2026-07-20 06:57
+Naps Total: 0 min
+
+2026-07-21
+Sleep Score: 95
+Daily Sleep: 6h 49min (incl. naps)
+Main Sleep: 6h 58min
+Deep Sleep Ratio: 18%
+Light Sleep Ratio: 52%
+REM Ratio: 28%
+Awake Ratio: 2%
+Awake Time: 9 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-20 23:36 - 2026-07-21 06:34
+Naps Total: 0 min
+
+2026-07-22
+Sleep Score: 96
+Daily Sleep: 8h 0min (incl. naps)
+Main Sleep: 8h 17min
+Deep Sleep Ratio: 24%
+Light Sleep Ratio: 52%
+REM Ratio: 21%
+Awake Ratio: 3%
+Awake Time: 17 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-21 23:13 - 2026-07-22 07:30
+Naps Total: 0 min
+
+2026-07-23
+Sleep Score: 95
+Daily Sleep: 7h 47min (incl. naps)
+Main Sleep: 8h 6min
+Deep Sleep Ratio: 18%
+Light Sleep Ratio: 57%
+REM Ratio: 21%
+Awake Ratio: 4%
+Awake Time: 19 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-22 22:54 - 2026-07-23 07:00
+Naps Total: 0 min
+
+2026-07-24
+Sleep Score: 92
+Daily Sleep: 6h 12min (incl. naps)
+Main Sleep: 6h 32min
+Deep Sleep Ratio: 21%
+Light Sleep Ratio: 56%
+REM Ratio: 18%
+Awake Ratio: 5%
+Awake Time: 20 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-23 23:43 - 2026-07-24 06:15
+Naps Total: 0 min
+
+2026-07-25
+Sleep Score: 62
+Daily Sleep: 5h 22min (incl. naps)
+Main Sleep: 5h 33min
+Deep Sleep Ratio: 20%
+Light Sleep Ratio: 46%
+REM Ratio: 31%
+Awake Ratio: 3%
+Awake Time: 11 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-25 00:00 - 2026-07-25 05:33
+Naps Total: 0 min
+
+2026-07-26
+Sleep Score: 77
+Main Sleep (asleep): 7h 34min
+Main Sleep Period (incl. awake): 7h 45min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 13%
+Light Sleep Ratio: 55%
+REM Ratio: 30%
+Awake Ratio: 2%
+Awake Time: 11 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-25 22:57 - 2026-07-26 06:42
+Naps Total (asleep): 1h 14min
+Naps Period (incl. awake): 1h 14min
+Nap Window: 2026-07-26 15:44 - 2026-07-26 16:58
+
+2026-07-27
+Sleep Score: 72
+Main Sleep (asleep): 6h 42min
+Main Sleep Period (incl. awake): 7h 10min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 13%
+Light Sleep Ratio: 59%
+REM Ratio: 21%
+Awake Ratio: 7%
+Awake Time: 28 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-27 00:21 - 2026-07-27 07:31
+Naps Total: 0 min
+
+2026-07-28
+Sleep Score: 88
+Main Sleep (asleep): 8h 37min
+Main Sleep Period (incl. awake): 8h 58min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 17%
+Light Sleep Ratio: 61%
+REM Ratio: 18%
+Awake Ratio: 4%
+Awake Time: 21 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-27 23:05 - 2026-07-28 08:03
+Naps Total (asleep): 33 min
+Naps Period (incl. awake): 33 min
+Nap Window: 2026-07-28 16:56 - 2026-07-28 17:29
+
+2026-07-29
+Sleep Score: 78
+Main Sleep (asleep): 6h 28min
+Main Sleep Period (incl. awake): 6h 45min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 15%
+Light Sleep Ratio: 50%
+REM Ratio: 31%
+Awake Ratio: 4%
+Awake Time: 17 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-07-29 00:51 - 2026-07-29 07:36
+Naps Total: 0 min
+
+2026-07-30
+Sleep Score: 75
+Main Sleep (asleep): 7h 8min
+Main Sleep Period (incl. awake): 7h 26min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 24%
+Light Sleep Ratio: 63%
+REM Ratio: 9%
+Awake Ratio: 4%
+Awake Time: 18 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-07-30 00:12 - 2026-07-30 07:38
+Naps Total (asleep): 42 min
+Naps Period (incl. awake): 42 min
+Nap Window: 2026-07-30 17:01 - 2026-07-30 17:43
+
+2026-07-31
+Sleep Score: 45
+Main Sleep (asleep): 6h 27min
+Main Sleep Period (incl. awake): 7h 41min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 9%
+Light Sleep Ratio: 54%
+REM Ratio: 21%
+Awake Ratio: 16%
+Awake Time: 1h 14min
+Awake Count (>5 min): 3
+Main Sleep Window: 2026-07-30 23:59 - 2026-07-31 07:40
+Naps Total: 0 min
+
+2026-08-01
+Sleep Score: 51
+Main Sleep (asleep): 5h 58min
+Main Sleep Period (incl. awake): 6h 55min
+Sleep metrics scope: main sleep
+Deep Sleep Ratio: 18%
+Light Sleep Ratio: 61%
+REM Ratio: 7%
+Awake Ratio: 14%
+Awake Time: 57 min
+Awake Count (>5 min): 2
+Main Sleep Window: 2026-07-31 21:50 - 2026-08-01 04:45
+Naps Total: 0 min
+
+2026-08-02
+Sleep Score: 66
+Daily Sleep: 5h 29min (incl. naps)
+Main Sleep (asleep): 5h 29min
+Main Sleep Period (incl. awake): 5h 37min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 24%
+Light Sleep Ratio: 45%
+REM Ratio: 29%
+Awake Ratio: 2%
+Awake Time: 8 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-02 00:38 - 2026-08-02 06:15
+Naps Total: 0 min
+
+2026-08-03
+Sleep Score: 84
+Daily Sleep: 8h 11min (incl. naps)
+Main Sleep (asleep): 8h 11min
+Main Sleep Period (incl. awake): 8h 44min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 21%
+Light Sleep Ratio: 59%
+REM Ratio: 14%
+Awake Ratio: 6%
+Awake Time: 33 min
+Awake Count (>5 min): 2
+Main Sleep Window: 2026-08-02 22:16 - 2026-08-03 07:00
+Naps Total: 0 min
+
+2026-08-04
+Sleep Score: 95
+Daily Sleep: 7h 31min (incl. naps)
+Main Sleep (asleep): 7h 31min
+Main Sleep Period (incl. awake): 7h 58min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 21%
+Light Sleep Ratio: 53%
+REM Ratio: 20%
+Awake Ratio: 6%
+Awake Time: 27 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-03 23:34 - 2026-08-04 07:32
+Naps Total: 0 min
+
+2026-08-05
+Sleep Score: 81
+Daily Sleep: 6h 25min (incl. naps)
+Main Sleep (asleep): 6h 25min
+Main Sleep Period (incl. awake): 6h 46min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 27%
+Light Sleep Ratio: 56%
+REM Ratio: 12%
+Awake Ratio: 5%
+Awake Time: 21 min
+Awake Count (>5 min): 1
+Main Sleep Window: 2026-08-04 23:56 - 2026-08-05 06:42
+Naps Total: 0 min
+
+2026-08-06
+Sleep Score: 73
+Daily Sleep: 6h 4min (incl. naps)
+Main Sleep (asleep): 6h 4min
+Main Sleep Period (incl. awake): 6h 13min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 24%
+Light Sleep Ratio: 47%
+REM Ratio: 27%
+Awake Ratio: 2%
+Awake Time: 9 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-06 00:22 - 2026-08-06 06:35
+Naps Total: 0 min
+
+2026-08-07
+Sleep Score: 87
+Daily Sleep: 6h 55min (incl. naps)
+Main Sleep (asleep): 6h 55min
+Main Sleep Period (incl. awake): 7h 14min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 24%
+Light Sleep Ratio: 52%
+REM Ratio: 20%
+Awake Ratio: 4%
+Awake Time: 19 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-06 23:01 - 2026-08-07 06:15
+Naps Total: 0 min
+
+2026-08-08
+Sleep Score: 84
+Daily Sleep: 6h 39min (incl. naps)
+Main Sleep (asleep): 6h 39min
+Main Sleep Period (incl. awake): 6h 50min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 16%
+Light Sleep Ratio: 55%
+REM Ratio: 26%
+Awake Ratio: 3%
+Awake Time: 11 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-07 23:18 - 2026-08-08 06:08
+Naps Total: 0 min
+
+2026-08-09
+Sleep Score: 52
+Daily Sleep: 4h 56min (incl. naps)
+Main Sleep (asleep): 3h 34min
+Main Sleep Period (incl. awake): 3h 41min
+Sleep metrics scope: daily
+Deep Sleep Ratio: 11%
+Light Sleep Ratio: 57%
+REM Ratio: 29%
+Awake Ratio: 3%
+Awake Time: 7 min
+Awake Count (>5 min): 0
+Main Sleep Window: 2026-08-08 22:49 - 2026-08-09 02:30
+Naps Total (asleep): 1h 22min
+Naps Period (incl. awake): 1h 26min
+Nap Window: 2026-08-09 13:18 - 2026-08-09 14:44

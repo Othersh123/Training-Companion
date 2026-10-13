@@ -1,0 +1,54 @@
+Sleep HRV — 2026-09-26 to 2026-10-02
+========================
+Note: dates are wake-up days (each value comes from the night that ended that morning).
+
+HRV Assessment — Last 7 days
+========================
+
+2026-10-01:
+  HRV Avg: 91 ms — Below normal
+  Normal Range: 93 - 111 ms
+  Baseline: 102 ms
+2026-09-30:
+  HRV Avg: 105 ms — Normal
+  Normal Range: 93 - 112 ms
+  Baseline: 102 ms
+2026-09-29:
+  HRV Avg: 97 ms — Normal
+  Normal Range: 93 - 111 ms
+  Baseline: 102 ms
+2026-09-28:
+  HRV Avg: 105 ms — Normal
+  Normal Range: 91 - 111 ms
+  Baseline: 101 ms
+2026-09-27:
+  HRV Avg: 111 ms — Above normal
+  Normal Range: 92 - 110 ms
+  Baseline: 101 ms
+2026-09-26:
+  HRV Avg: 120 ms — Above normal
+  Normal Range: 91 - 109 ms
+  Baseline: 100 ms
+
+Sleep HRV Time Series — Last 7 days
+========================
+
+2026-09-26:
+  timestamp=1790362190, timezone=22, hrv=136 ms, status=4, confidence=83928
+  timestamp=1790362490, timezone=22, hrv=127 ms, status=4, confidence=89285
+2026-09-27:
+  timestamp=1790447990, timezone=22, hrv=108 ms, status=4, confidence=84000
+  timestamp=1790448590, timezone=22, hrv=86 ms, status=4, confidence=95833
+2026-09-28:
+  timestamp=1790534390, timezone=22, hrv=89 ms, status=4, confidence=96551
+  timestamp=1790534990, timezone=22, hrv=108 ms, status=4, confidence=96551
+2026-09-29:
+  timestamp=1790620490, timezone=22, hrv=95 ms, status=4, confidence=96000
+  timestamp=1790620790, timezone=22, hrv=89 ms, status=4, confidence=100000
+2026-09-30:
+  timestamp=1790707190, timezone=22, hrv=108 ms, status=4, confidence=95454
+  timestamp=1790707790, timezone=22, hrv=103 ms, status=4, confidence=100000
+2026-10-01:
+  timestamp=1790794490, timezone=22, hrv=71 ms, status=4, confidence=100000
+  timestamp=1790795390, timezone=22, hrv=79 ms, status=4, confidence=100000
+2026-10-02: no official sleep HRV value for this day; raw HRV points omitted.

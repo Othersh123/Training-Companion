@@ -1,0 +1,312 @@
+Sleep HRV — 2026-07-10 to 2026-07-16
+========================
+Note: dates are wake-up days (each value comes from the night that ended that morning).
+
+HRV Assessment — Last 7 days
+========================
+
+2026-07-16:
+  HRV Avg: 88 ms — Low
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-15:
+  HRV Avg: 110 ms — Above normal
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-14:
+  HRV Avg: 93 ms — Below normal
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-13:
+  HRV Avg: 108 ms — Normal
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-12:
+  HRV Avg: 106 ms — Normal
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-11:
+  HRV Avg: 105 ms — Normal
+  Normal Range: 96 - 108 ms
+  Baseline: 102 ms
+2026-07-10:
+  HRV Avg: 97 ms — Normal
+  Normal Range: 90 - 112 ms
+  Baseline: 101 ms
+
+Sleep HRV Time Series — Last 7 days
+========================
+
+2026-07-10:
+  timestamp=1783622090, timezone=22, hrv=70 ms, status=4, confidence=100000
+  timestamp=1783622690, timezone=22, hrv=83 ms, status=4, confidence=100000
+  timestamp=1783622990, timezone=22, hrv=58 ms, status=4, confidence=100000
+  timestamp=1783623590, timezone=22, hrv=67 ms, status=4, confidence=100000
+  timestamp=1783624190, timezone=22, hrv=114 ms, status=4, confidence=92857
+  timestamp=1783624790, timezone=22, hrv=111 ms, status=4, confidence=89655
+  timestamp=1783625690, timezone=22, hrv=118 ms, status=4, confidence=89285
+  timestamp=1783626890, timezone=22, hrv=57 ms, status=4, confidence=100000
+  timestamp=1783628090, timezone=22, hrv=85 ms, status=4, confidence=100000
+  timestamp=1783628990, timezone=22, hrv=101 ms, status=4, confidence=88888
+  timestamp=1783629590, timezone=22, hrv=99 ms, status=4, confidence=100000
+  timestamp=1783630190, timezone=22, hrv=116 ms, status=4, confidence=96153
+  timestamp=1783630790, timezone=22, hrv=103 ms, status=4, confidence=100000
+  timestamp=1783631390, timezone=22, hrv=116 ms, status=4, confidence=88000
+  timestamp=1783631990, timezone=22, hrv=75 ms, status=4, confidence=100000
+  timestamp=1783632590, timezone=22, hrv=113 ms, status=4, confidence=92000
+  timestamp=1783633490, timezone=22, hrv=62 ms, status=4, confidence=100000
+  timestamp=1783634090, timezone=22, hrv=141 ms, status=4, confidence=91666
+  timestamp=1783635290, timezone=22, hrv=125 ms, status=4, confidence=96153
+  timestamp=1783635890, timezone=22, hrv=120 ms, status=4, confidence=95833
+  timestamp=1783636490, timezone=22, hrv=102 ms, status=4, confidence=95833
+  timestamp=1783637390, timezone=22, hrv=85 ms, status=4, confidence=100000
+  timestamp=1783638590, timezone=22, hrv=96 ms, status=4, confidence=100000
+  timestamp=1783639790, timezone=22, hrv=101 ms, status=4, confidence=85185
+  timestamp=1783640690, timezone=22, hrv=118 ms, status=4, confidence=84945
+  timestamp=1783641290, timezone=22, hrv=128 ms, status=4, confidence=96000
+  timestamp=1783641890, timezone=22, hrv=128 ms, status=4, confidence=95833
+  timestamp=1783642490, timezone=22, hrv=116 ms, status=4, confidence=100000
+  timestamp=1783643090, timezone=22, hrv=114 ms, status=4, confidence=95652
+  timestamp=1783643690, timezone=22, hrv=72 ms, status=4, confidence=100000
+  timestamp=1783645490, timezone=22, hrv=95 ms, status=4, confidence=100000
+  timestamp=1783656890, timezone=22, hrv=68 ms, status=4, confidence=85102
+  timestamp=1783680590, timezone=22, hrv=97 ms, status=4, confidence=96551
+  timestamp=1783681190, timezone=22, hrv=119 ms, status=4, confidence=92592
+  timestamp=1783705490, timezone=22, hrv=69 ms, status=4, confidence=85714
+2026-07-11:
+  timestamp=1783708790, timezone=22, hrv=84 ms, status=4, confidence=82545
+  timestamp=1783710890, timezone=22, hrv=127 ms, status=4, confidence=85076
+  timestamp=1783711190, timezone=22, hrv=125 ms, status=4, confidence=96000
+  timestamp=1783711790, timezone=22, hrv=111 ms, status=4, confidence=96153
+  timestamp=1783712090, timezone=22, hrv=79 ms, status=4, confidence=100000
+  timestamp=1783712690, timezone=22, hrv=107 ms, status=4, confidence=96296
+  timestamp=1783713290, timezone=22, hrv=101 ms, status=4, confidence=100000
+  timestamp=1783714190, timezone=22, hrv=94 ms, status=4, confidence=96153
+  timestamp=1783714790, timezone=22, hrv=91 ms, status=4, confidence=89285
+  timestamp=1783715390, timezone=22, hrv=87 ms, status=4, confidence=100000
+  timestamp=1783715990, timezone=22, hrv=93 ms, status=4, confidence=92307
+  timestamp=1783717190, timezone=22, hrv=123 ms, status=4, confidence=86538
+  timestamp=1783718090, timezone=22, hrv=61 ms, status=4, confidence=100000
+  timestamp=1783718690, timezone=22, hrv=103 ms, status=4, confidence=83754
+  timestamp=1783719890, timezone=22, hrv=97 ms, status=4, confidence=100000
+  timestamp=1783720490, timezone=22, hrv=97 ms, status=4, confidence=100000
+  timestamp=1783721390, timezone=22, hrv=122 ms, status=4, confidence=85478
+  timestamp=1783721990, timezone=22, hrv=106 ms, status=4, confidence=87500
+  timestamp=1783722590, timezone=22, hrv=139 ms, status=4, confidence=90909
+  timestamp=1783723190, timezone=22, hrv=130 ms, status=4, confidence=90909
+  timestamp=1783723790, timezone=22, hrv=86 ms, status=4, confidence=86956
+  timestamp=1783724390, timezone=22, hrv=105 ms, status=4, confidence=100000
+  timestamp=1783725290, timezone=22, hrv=143 ms, status=4, confidence=84722
+  timestamp=1783725890, timezone=22, hrv=122 ms, status=4, confidence=95652
+  timestamp=1783726490, timezone=22, hrv=94 ms, status=4, confidence=100000
+  timestamp=1783727090, timezone=22, hrv=80 ms, status=4, confidence=87500
+  timestamp=1783727690, timezone=22, hrv=115 ms, status=4, confidence=100000
+  timestamp=1783728590, timezone=22, hrv=87 ms, status=4, confidence=84900
+  timestamp=1783729190, timezone=22, hrv=120 ms, status=4, confidence=86363
+  timestamp=1783729790, timezone=22, hrv=120 ms, status=4, confidence=95454
+  timestamp=1783731890, timezone=22, hrv=109 ms, status=4, confidence=100000
+  timestamp=1783753490, timezone=22, hrv=105 ms, status=4, confidence=87096
+  timestamp=1783753790, timezone=22, hrv=99 ms, status=4, confidence=92307
+  timestamp=1783780490, timezone=22, hrv=68 ms, status=4, confidence=88571
+2026-07-12:
+  timestamp=1783796690, timezone=22, hrv=127 ms, status=4, confidence=86752
+  timestamp=1783797290, timezone=22, hrv=98 ms, status=4, confidence=100000
+  timestamp=1783798190, timezone=22, hrv=112 ms, status=4, confidence=95652
+  timestamp=1783798790, timezone=22, hrv=94 ms, status=4, confidence=96000
+  timestamp=1783799390, timezone=22, hrv=99 ms, status=4, confidence=95833
+  timestamp=1783799990, timezone=22, hrv=73 ms, status=4, confidence=100000
+  timestamp=1783800590, timezone=22, hrv=99 ms, status=4, confidence=100000
+  timestamp=1783801190, timezone=22, hrv=121 ms, status=4, confidence=92000
+  timestamp=1783801790, timezone=22, hrv=90 ms, status=4, confidence=92000
+  timestamp=1783802690, timezone=22, hrv=75 ms, status=4, confidence=96296
+  timestamp=1783803290, timezone=22, hrv=125 ms, status=4, confidence=96000
+  timestamp=1783803890, timezone=22, hrv=108 ms, status=4, confidence=92000
+  timestamp=1783804490, timezone=22, hrv=97 ms, status=4, confidence=85645
+  timestamp=1783805090, timezone=22, hrv=79 ms, status=4, confidence=100000
+  timestamp=1783805990, timezone=22, hrv=90 ms, status=4, confidence=100000
+  timestamp=1783806590, timezone=22, hrv=117 ms, status=4, confidence=95833
+  timestamp=1783807190, timezone=22, hrv=109 ms, status=4, confidence=85007
+  timestamp=1783807790, timezone=22, hrv=104 ms, status=4, confidence=95833
+  timestamp=1783808390, timezone=22, hrv=117 ms, status=4, confidence=100000
+  timestamp=1783808990, timezone=22, hrv=140 ms, status=4, confidence=95238
+  timestamp=1783810490, timezone=22, hrv=116 ms, status=4, confidence=91304
+  timestamp=1783811090, timezone=22, hrv=111 ms, status=4, confidence=95454
+  timestamp=1783811690, timezone=22, hrv=118 ms, status=4, confidence=100000
+  timestamp=1783812290, timezone=22, hrv=88 ms, status=4, confidence=86206
+  timestamp=1783813190, timezone=22, hrv=111 ms, status=4, confidence=95454
+  timestamp=1783813790, timezone=22, hrv=99 ms, status=4, confidence=95454
+  timestamp=1783814990, timezone=22, hrv=91 ms, status=4, confidence=92000
+  timestamp=1783816490, timezone=22, hrv=127 ms, status=4, confidence=85714
+  timestamp=1783817090, timezone=22, hrv=102 ms, status=4, confidence=100000
+  timestamp=1783817690, timezone=22, hrv=103 ms, status=4, confidence=100000
+  timestamp=1783818290, timezone=22, hrv=131 ms, status=4, confidence=90909
+  timestamp=1783818890, timezone=22, hrv=103 ms, status=4, confidence=100000
+  timestamp=1783819490, timezone=22, hrv=121 ms, status=4, confidence=100000
+  timestamp=1783820090, timezone=22, hrv=113 ms, status=4, confidence=95454
+  timestamp=1783822490, timezone=22, hrv=111 ms, status=4, confidence=95238
+  timestamp=1783823690, timezone=22, hrv=123 ms, status=4, confidence=86363
+  timestamp=1783823990, timezone=22, hrv=73 ms, status=4, confidence=100000
+  timestamp=1783880090, timezone=22, hrv=122 ms, status=4, confidence=95833
+  timestamp=1783880690, timezone=22, hrv=54 ms, status=4, confidence=100000
+2026-07-13:
+  timestamp=1783881290, timezone=22, hrv=92 ms, status=4, confidence=100000
+  timestamp=1783882190, timezone=22, hrv=83 ms, status=4, confidence=100000
+  timestamp=1783882790, timezone=22, hrv=91 ms, status=4, confidence=100000
+  timestamp=1783883390, timezone=22, hrv=126 ms, status=4, confidence=87500
+  timestamp=1783883990, timezone=22, hrv=81 ms, status=4, confidence=100000
+  timestamp=1783884590, timezone=22, hrv=129 ms, status=4, confidence=86538
+  timestamp=1783885190, timezone=22, hrv=108 ms, status=4, confidence=96000
+  timestamp=1783886090, timezone=22, hrv=114 ms, status=4, confidence=96000
+  timestamp=1783886690, timezone=22, hrv=95 ms, status=4, confidence=100000
+  timestamp=1783887290, timezone=22, hrv=86 ms, status=4, confidence=100000
+  timestamp=1783887890, timezone=22, hrv=130 ms, status=4, confidence=100000
+  timestamp=1783888490, timezone=22, hrv=112 ms, status=4, confidence=100000
+  timestamp=1783889090, timezone=22, hrv=134 ms, status=4, confidence=100000
+  timestamp=1783889690, timezone=22, hrv=133 ms, status=4, confidence=95454
+  timestamp=1783890590, timezone=22, hrv=136 ms, status=4, confidence=95454
+  timestamp=1783891190, timezone=22, hrv=148 ms, status=4, confidence=95454
+  timestamp=1783891790, timezone=22, hrv=130 ms, status=4, confidence=95652
+  timestamp=1783892390, timezone=22, hrv=65 ms, status=4, confidence=100000
+  timestamp=1783892990, timezone=22, hrv=83 ms, status=4, confidence=86956
+  timestamp=1783893890, timezone=22, hrv=109 ms, status=4, confidence=95454
+  timestamp=1783894490, timezone=22, hrv=134 ms, status=4, confidence=100000
+  timestamp=1783895090, timezone=22, hrv=114 ms, status=4, confidence=95652
+  timestamp=1783895690, timezone=22, hrv=107 ms, status=4, confidence=95454
+  timestamp=1783896290, timezone=22, hrv=104 ms, status=4, confidence=100000
+  timestamp=1783964390, timezone=22, hrv=113 ms, status=4, confidence=92307
+  timestamp=1783964990, timezone=22, hrv=92 ms, status=4, confidence=96153
+  timestamp=1783965290, timezone=22, hrv=76 ms, status=4, confidence=100000
+  timestamp=1783965590, timezone=22, hrv=62 ms, status=4, confidence=100000
+  timestamp=1783966190, timezone=22, hrv=85 ms, status=4, confidence=96000
+  timestamp=1783967090, timezone=22, hrv=79 ms, status=4, confidence=100000
+2026-07-14:
+  timestamp=1783967690, timezone=22, hrv=81 ms, status=4, confidence=100000
+  timestamp=1783968290, timezone=22, hrv=114 ms, status=4, confidence=95833
+  timestamp=1783968890, timezone=22, hrv=91 ms, status=4, confidence=100000
+  timestamp=1783969490, timezone=22, hrv=112 ms, status=4, confidence=100000
+  timestamp=1783970090, timezone=22, hrv=108 ms, status=4, confidence=91666
+  timestamp=1783970690, timezone=22, hrv=74 ms, status=4, confidence=96153
+  timestamp=1783971590, timezone=22, hrv=88 ms, status=4, confidence=96153
+  timestamp=1783972190, timezone=22, hrv=115 ms, status=4, confidence=95833
+  timestamp=1783972790, timezone=22, hrv=93 ms, status=4, confidence=100000
+  timestamp=1783973390, timezone=22, hrv=81 ms, status=4, confidence=100000
+  timestamp=1783973990, timezone=22, hrv=89 ms, status=4, confidence=100000
+  timestamp=1783974590, timezone=22, hrv=78 ms, status=4, confidence=100000
+  timestamp=1783975490, timezone=22, hrv=76 ms, status=4, confidence=100000
+  timestamp=1783976090, timezone=22, hrv=99 ms, status=4, confidence=95454
+  timestamp=1783976690, timezone=22, hrv=93 ms, status=4, confidence=95652
+  timestamp=1783977290, timezone=22, hrv=87 ms, status=4, confidence=100000
+  timestamp=1783977890, timezone=22, hrv=39 ms, status=4, confidence=87018
+  timestamp=1783978490, timezone=22, hrv=85 ms, status=4, confidence=81875
+  timestamp=1783979390, timezone=22, hrv=91 ms, status=4, confidence=91979
+  timestamp=1783979990, timezone=22, hrv=101 ms, status=4, confidence=90909
+  timestamp=1783980590, timezone=22, hrv=91 ms, status=4, confidence=100000
+  timestamp=1783981190, timezone=22, hrv=77 ms, status=4, confidence=100000
+  timestamp=1783981790, timezone=22, hrv=90 ms, status=4, confidence=86666
+  timestamp=1783982690, timezone=22, hrv=111 ms, status=4, confidence=95000
+  timestamp=1783983290, timezone=22, hrv=83 ms, status=4, confidence=100000
+  timestamp=1783983890, timezone=22, hrv=133 ms, status=4, confidence=86363
+  timestamp=1783984490, timezone=22, hrv=113 ms, status=4, confidence=90476
+  timestamp=1783985090, timezone=22, hrv=91 ms, status=4, confidence=95454
+  timestamp=1783985990, timezone=22, hrv=122 ms, status=4, confidence=96551
+  timestamp=1783986590, timezone=22, hrv=122 ms, status=4, confidence=95454
+  timestamp=1783987190, timezone=22, hrv=74 ms, status=4, confidence=100000
+  timestamp=1783987790, timezone=22, hrv=105 ms, status=4, confidence=91304
+  timestamp=1783988390, timezone=22, hrv=120 ms, status=4, confidence=90909
+  timestamp=1783988990, timezone=22, hrv=85 ms, status=4, confidence=95454
+  timestamp=1783989890, timezone=22, hrv=103 ms, status=4, confidence=95238
+  timestamp=1783990490, timezone=22, hrv=112 ms, status=4, confidence=90909
+  timestamp=1783991090, timezone=22, hrv=94 ms, status=4, confidence=100000
+  timestamp=1783991690, timezone=22, hrv=89 ms, status=4, confidence=100000
+  timestamp=1783992290, timezone=22, hrv=88 ms, status=4, confidence=100000
+  timestamp=1783992890, timezone=22, hrv=81 ms, status=4, confidence=100000
+  timestamp=1783993490, timezone=22, hrv=128 ms, status=4, confidence=100000
+  timestamp=1784027090, timezone=22, hrv=89 ms, status=4, confidence=96000
+  timestamp=1784027390, timezone=22, hrv=74 ms, status=4, confidence=100000
+  timestamp=1784028290, timezone=22, hrv=77 ms, status=4, confidence=87878
+  timestamp=1784029790, timezone=22, hrv=66 ms, status=4, confidence=89473
+2026-07-15:
+  timestamp=1784055590, timezone=22, hrv=105 ms, status=4, confidence=92000
+  timestamp=1784055890, timezone=22, hrv=116 ms, status=4, confidence=92000
+  timestamp=1784056490, timezone=22, hrv=89 ms, status=4, confidence=92000
+  timestamp=1784057090, timezone=22, hrv=95 ms, status=4, confidence=100000
+  timestamp=1784058890, timezone=22, hrv=142 ms, status=4, confidence=95652
+  timestamp=1784059490, timezone=22, hrv=115 ms, status=4, confidence=100000
+  timestamp=1784060390, timezone=22, hrv=104 ms, status=4, confidence=92000
+  timestamp=1784060990, timezone=22, hrv=134 ms, status=4, confidence=88000
+  timestamp=1784061590, timezone=22, hrv=127 ms, status=4, confidence=96000
+  timestamp=1784062190, timezone=22, hrv=128 ms, status=4, confidence=88888
+  timestamp=1784062790, timezone=22, hrv=100 ms, status=4, confidence=88888
+  timestamp=1784063390, timezone=22, hrv=137 ms, status=4, confidence=85111
+  timestamp=1784065490, timezone=22, hrv=129 ms, status=4, confidence=100000
+  timestamp=1784066090, timezone=22, hrv=131 ms, status=4, confidence=95652
+  timestamp=1784066690, timezone=22, hrv=143 ms, status=4, confidence=95454
+  timestamp=1784067590, timezone=22, hrv=131 ms, status=4, confidence=83586
+  timestamp=1784068190, timezone=22, hrv=87 ms, status=4, confidence=100000
+  timestamp=1784068790, timezone=22, hrv=155 ms, status=4, confidence=84133
+  timestamp=1784069390, timezone=22, hrv=134 ms, status=4, confidence=100000
+  timestamp=1784069990, timezone=22, hrv=128 ms, status=4, confidence=95454
+  timestamp=1784070590, timezone=22, hrv=93 ms, status=4, confidence=100000
+  timestamp=1784071490, timezone=22, hrv=85 ms, status=4, confidence=100000
+  timestamp=1784072090, timezone=22, hrv=103 ms, status=4, confidence=95454
+  timestamp=1784072690, timezone=22, hrv=111 ms, status=4, confidence=85375
+  timestamp=1784073290, timezone=22, hrv=122 ms, status=4, confidence=86333
+  timestamp=1784073890, timezone=22, hrv=139 ms, status=4, confidence=87500
+  timestamp=1784074490, timezone=22, hrv=113 ms, status=4, confidence=100000
+  timestamp=1784075390, timezone=22, hrv=115 ms, status=4, confidence=91666
+  timestamp=1784075990, timezone=22, hrv=96 ms, status=4, confidence=100000
+  timestamp=1784076590, timezone=22, hrv=98 ms, status=4, confidence=100000
+  timestamp=1784080190, timezone=22, hrv=116 ms, status=4, confidence=100000
+  timestamp=1784080490, timezone=22, hrv=100 ms, status=4, confidence=95454
+  timestamp=1784081090, timezone=22, hrv=105 ms, status=4, confidence=100000
+  timestamp=1784081690, timezone=22, hrv=82 ms, status=4, confidence=100000
+  timestamp=1784082290, timezone=22, hrv=89 ms, status=4, confidence=95833
+  timestamp=1784082890, timezone=22, hrv=98 ms, status=4, confidence=89492
+  timestamp=1784083490, timezone=22, hrv=71 ms, status=4, confidence=100000
+  timestamp=1784084390, timezone=22, hrv=109 ms, status=4, confidence=85833
+  timestamp=1784114090, timezone=22, hrv=75 ms, status=4, confidence=86666
+  timestamp=1784114390, timezone=22, hrv=113 ms, status=4, confidence=92000
+  timestamp=1784114990, timezone=22, hrv=83 ms, status=4, confidence=100000
+  timestamp=1784125190, timezone=22, hrv=37 ms, status=4, confidence=91079
+  timestamp=1784132090, timezone=22, hrv=66 ms, status=4, confidence=84486
+  timestamp=1784133890, timezone=22, hrv=48 ms, status=4, confidence=95238
+  timestamp=1784138690, timezone=22, hrv=73 ms, status=4, confidence=88571
+  timestamp=1784139290, timezone=22, hrv=66 ms, status=4, confidence=100000
+  timestamp=1784139590, timezone=22, hrv=66 ms, status=4, confidence=97058
+  timestamp=1784140190, timezone=22, hrv=51 ms, status=4, confidence=100000
+2026-07-16:
+  timestamp=1784140790, timezone=22, hrv=50 ms, status=4, confidence=100000
+  timestamp=1784141690, timezone=22, hrv=116 ms, status=4, confidence=86666
+  timestamp=1784142890, timezone=22, hrv=92 ms, status=4, confidence=100000
+  timestamp=1784143490, timezone=22, hrv=102 ms, status=4, confidence=100000
+  timestamp=1784144090, timezone=22, hrv=43 ms, status=4, confidence=100000
+  timestamp=1784145590, timezone=22, hrv=114 ms, status=4, confidence=88888
+  timestamp=1784146190, timezone=22, hrv=132 ms, status=4, confidence=82098
+  timestamp=1784146790, timezone=22, hrv=109 ms, status=4, confidence=100000
+  timestamp=1784147390, timezone=22, hrv=108 ms, status=4, confidence=96153
+  timestamp=1784147990, timezone=22, hrv=85 ms, status=4, confidence=100000
+  timestamp=1784148890, timezone=22, hrv=124 ms, status=4, confidence=96000
+  timestamp=1784150090, timezone=22, hrv=103 ms, status=4, confidence=100000
+  timestamp=1784150690, timezone=22, hrv=109 ms, status=4, confidence=83753
+  timestamp=1784151290, timezone=22, hrv=99 ms, status=4, confidence=96000
+  timestamp=1784151890, timezone=22, hrv=91 ms, status=4, confidence=100000
+  timestamp=1784152790, timezone=22, hrv=87 ms, status=4, confidence=100000
+  timestamp=1784153390, timezone=22, hrv=65 ms, status=4, confidence=100000
+  timestamp=1784153990, timezone=22, hrv=72 ms, status=4, confidence=100000
+  timestamp=1784154590, timezone=22, hrv=137 ms, status=4, confidence=86538
+  timestamp=1784156690, timezone=22, hrv=86 ms, status=4, confidence=100000
+  timestamp=1784157290, timezone=22, hrv=84 ms, status=4, confidence=95652
+  timestamp=1784157890, timezone=22, hrv=101 ms, status=4, confidence=100000
+  timestamp=1784158490, timezone=22, hrv=122 ms, status=4, confidence=85750
+  timestamp=1784159090, timezone=22, hrv=65 ms, status=4, confidence=100000
+  timestamp=1784159990, timezone=22, hrv=101 ms, status=4, confidence=100000
+  timestamp=1784160590, timezone=22, hrv=89 ms, status=4, confidence=100000
+  timestamp=1784161190, timezone=22, hrv=71 ms, status=4, confidence=83922
+  timestamp=1784180090, timezone=22, hrv=68 ms, status=4, confidence=83617
+  timestamp=1784195990, timezone=22, hrv=88 ms, status=4, confidence=96666
+  timestamp=1784196890, timezone=22, hrv=93 ms, status=4, confidence=100000
+  timestamp=1784197190, timezone=22, hrv=81 ms, status=4, confidence=100000
+  timestamp=1784198090, timezone=22, hrv=80 ms, status=4, confidence=100000
+  timestamp=1784198690, timezone=22, hrv=90 ms, status=4, confidence=92592
+  timestamp=1784199290, timezone=22, hrv=83 ms, status=4, confidence=96153
+  timestamp=1784225990, timezone=22, hrv=116 ms, status=4, confidence=92307

@@ -1,0 +1,36 @@
+Training Plan Detail
+========================
+Plan ID: 480727753751183759
+Name: Marathon Plan 430
+Status: In progress
+Type: custom
+Plan Score: 0
+Dates: 2026-10-01 to 2026-11-21
+Weeks: 7
+Editable via MCP: no
+  Reason: This plan was not created via MCP and cannot be modified.
+
+Days (dayNo 0-3)
+------------------------
+Day 0 - 2026-10-01
+Course 1 [Not started, score 0.0]
+Course: 7k Easy + 6 Strides
+Course JSON: {"dayNo":0,"courseName":"7k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":7000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":1000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 1 - 2026-10-02
+Course 1 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Core Workout
+Course JSON: {"dayNo":1,"courseName":"Core Workout","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 2 - 2026-10-03
+Course 1 [Not started, score 0.0]
+Course: 6k Easy
+Course JSON: {"dayNo":2,"courseName":"6k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":6000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 3 - 2026-10-04
+Course 1 [Not started, score 0.0]
+Course: 11k Easy
+Course JSON: {"dayNo":3,"courseName":"11k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":11000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+
+Modification unavailable: do not call updateTrainingPlan with this Plan ID. Query queryTrainingPlanLibrary for an in-progress execution record with editable=true; if none exists, start or restart the plan in the COROS app first. Do not show Plan ID to the user.

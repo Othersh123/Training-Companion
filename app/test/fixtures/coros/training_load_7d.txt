@@ -1,0 +1,44 @@
+Training Load Assessment
+========================
+
+2026-10-02
+Comment: Optimized
+Short-Term Load: 97
+Long-Term Load: 73
+Load Ratio: 1.32
+
+2026-10-01
+Comment: Optimized
+Short-Term Load: 108
+Long-Term Load: 74
+Load Ratio: 1.45
+
+2026-09-30
+Comment: Excessive
+Short-Term Load: 126
+Long-Term Load: 76
+Load Ratio: 1.65
+
+2026-09-29
+Comment: Excessive
+Short-Term Load: 124
+Long-Term Load: 75
+Load Ratio: 1.65
+
+2026-09-28
+Comment: Excessive
+Short-Term Load: 141
+Long-Term Load: 76
+Load Ratio: 1.85
+
+2026-09-27
+Comment: Excessive
+Short-Term Load: 165
+Long-Term Load: 78
+Load Ratio: 2.11
+
+2026-09-26
+Comment: Optimized
+Short-Term Load: 71
+Long-Term Load: 70
+Load Ratio: 1.01

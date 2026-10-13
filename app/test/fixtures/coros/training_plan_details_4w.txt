@@ -1,0 +1,143 @@
+Training Plan Detail
+========================
+Plan ID: 480727753751183759
+Name: Marathon Plan 430
+Status: In progress
+Type: custom
+Plan Score: -1
+Dates: 2026-10-01 to 2026-11-21
+Weeks: 7
+Editable via MCP: no
+  Reason: This plan was not created via MCP and cannot be modified.
+
+Days (dayNo 4-31)
+------------------------
+Day 4 - 2026-10-05
+Rest day
+Day 5 - 2026-10-06
+Course 1 [Not started, score 0.0]
+Course: 7k Easy
+Course JSON: {"dayNo":5,"courseName":"7k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":7000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Course 2 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Leg Strength Training
+Course JSON: {"dayNo":5,"courseName":"Leg Strength Training","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 6 - 2026-10-07
+Rest day
+Day 7 - 2026-10-08
+Course 1 [Not started, score 0.0]
+Course: 7k Easy + 6 Strides
+Course JSON: {"dayNo":7,"courseName":"7k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":5000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 8 - 2026-10-09
+Course 1 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Core Workout
+Course JSON: {"dayNo":8,"courseName":"Core Workout","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 9 - 2026-10-10
+Course 1 [Not started, score 0.0]
+Course: 7k Easy + 6 Strides
+Course JSON: {"dayNo":9,"courseName":"7k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":5000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 10 - 2026-10-11
+Course 1 [Not started, score 0.0]
+Course: 15k Long Run
+Course JSON: {"dayNo":10,"courseName":"15k Long Run","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":15000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 11 - 2026-10-12
+Rest day
+Day 12 - 2026-10-13
+Course 1 [Not started, score 0.0]
+Course: 7k Easy
+Course JSON: {"dayNo":12,"courseName":"7k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":10000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Course 2 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Leg Strength Training
+Course JSON: {"dayNo":12,"courseName":"Leg Strength Training","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 13 - 2026-10-14
+Rest day
+Day 14 - 2026-10-15
+Course 1 [Not started, score 0.0]
+Course: 7k Easy + 6 Strides
+Course JSON: {"dayNo":14,"courseName":"7k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":5000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 15 - 2026-10-16
+Course 1 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Core Workout
+Course JSON: {"dayNo":15,"courseName":"Core Workout","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 16 - 2026-10-17
+Course 1 [Not started, score 0.0]
+Course: 7k Easy + 6 Strides
+Course JSON: {"dayNo":16,"courseName":"7k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":5000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 17 - 2026-10-18
+Course 1 [Not started, score 0.0]
+Course: 23k Long Run
+Course JSON: {"dayNo":17,"courseName":"23k Long Run","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":23000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 18 - 2026-10-19
+Rest day
+Day 19 - 2026-10-20
+Course 1 [Not started, score 0.0]
+Course: 5k Easy
+Course JSON: {"dayNo":19,"courseName":"5k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":5000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Course 2 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Leg Strength Training
+Course JSON: {"dayNo":19,"courseName":"Leg Strength Training","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 20 - 2026-10-21
+Rest day
+Day 21 - 2026-10-22
+Course 1 [Not started, score 0.0]
+Course: 5k Easy + 6 Strides
+Course JSON: {"dayNo":21,"courseName":"5k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":4000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":1000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 22 - 2026-10-23
+Course 1 [Not started, score 0.0]
+Not losslessly expressible via MCP.
+The course JSON below is a partial result; do not infer that a section had no intensity target just because its intensity fields are absent.
+Course: Core Workout
+Course JSON: {"dayNo":22,"courseName":"Core Workout","sportType":4}
+  Degradation: COROS sport type 4 (Strength) cannot be expressed by MCP (only running, cycling and trail running).
+This day cannot be safely copied for whole-day replacement; do not update this day via MCP.
+Day 23 - 2026-10-24
+Course 1 [Not started, score 0.0]
+Course: 5k Easy + 6 Strides
+Course JSON: {"dayNo":23,"courseName":"5k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":3000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 24 - 2026-10-25
+Course 1 [Not started, score 0.0]
+Course: 10k Easy
+Course JSON: {"dayNo":24,"courseName":"10k Easy","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":10000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 25 - 2026-10-26
+Rest day
+Day 26 - 2026-10-27
+Course 1 [Not started, score 0.0]
+Course: 5k Easy + 6 Strides
+Course JSON: {"dayNo":26,"courseName":"5k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":4000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":1000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 27 - 2026-10-28
+Rest day
+Day 28 - 2026-10-29
+Course 1 [Not started, score 0.0]
+Course: Threshold Workout
+Course JSON: {"dayNo":28,"courseName":"Threshold Workout","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":2,"sets":[{"sectionType":2,"targetType":1,"targetValue":4000,"intensityType":2,"sectionIntensity":3},{"sectionType":2,"targetType":1,"targetValue":1600,"intensityType":2,"sectionIntensity":4},{"sectionType":3,"targetType":2,"targetValue":60}]},{"sectionType":2,"targetType":1,"targetValue":2000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 29 - 2026-10-30
+Rest day
+Day 30 - 2026-10-31
+Course 1 [Not started, score 0.0]
+Course: 5k Easy + 6 Strides
+Course JSON: {"dayNo":30,"courseName":"5k Easy + 6 Strides","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":4000,"intensityType":2,"sectionIntensity":2},{"intervalGroup":true,"repeats":6,"sets":[{"sectionType":2,"targetType":2,"targetValue":20,"intensityType":2,"sectionIntensity":5},{"sectionType":3,"targetType":2,"targetValue":60,"intensityType":2,"sectionIntensity":2}]},{"sectionType":2,"targetType":1,"targetValue":1000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+Day 31 - 2026-11-01
+Course 1 [Not started, score 0.0]
+Course: Marathon Pace Run
+Course JSON: {"dayNo":31,"courseName":"Marathon Pace Run","sportType":1,"sections":[{"sectionType":1,"targetType":2,"targetValue":300},{"sectionType":2,"targetType":1,"targetValue":6000,"intensityType":2,"sectionIntensity":2},{"sectionType":2,"targetType":1,"targetValue":14000,"intensityType":2,"sectionIntensity":3},{"sectionType":2,"targetType":1,"targetValue":1000,"intensityType":2,"sectionIntensity":2},{"sectionType":4,"targetType":2,"targetValue":300}]}
+
+Modification unavailable: do not call updateTrainingPlan with this Plan ID. Query queryTrainingPlanLibrary for an in-progress execution record with editable=true; if none exists, start or restart the plan in the COROS app first. Do not show Plan ID to the user.

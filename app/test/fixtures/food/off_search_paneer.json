@@ -1,0 +1,165 @@
+{
+ "hits": [
+  {
+   "code": "8901262180016",
+   "brands": [
+    "Amul"
+   ],
+   "nutriments": {
+    "carbohydrates_100g": 4.5,
+    "energy-kcal_100g": 314,
+    "fat_100g": 25,
+    "proteins_100g": 20,
+    "salt_100g": 0.055,
+    "saturated-fat_100g": 15,
+    "sodium_100g": 0.022,
+    "sugars_100g": 4.5
+   },
+   "product_name": "Malai Paneer"
+  },
+  {
+   "code": "8908011832004",
+   "brands": [
+    "Indiska Farms"
+   ],
+   "nutriments": {
+    "carbohydrates_100g": 1,
+    "energy-kcal_100g": 225,
+    "fat_100g": 22,
+    "proteins_100g": 13.3
+   },
+   "product_name": "Malai Paneer"
+  },
+  {
+   "code": "0208763002488",
+   "brands": [
+    "Continental Paneer"
+   ],
+   "nutriments": {
+    "fat_100g": 28.100000381469727,
+    "sugars_100g": 1.600000023841858,
+    "proteins_100g": 24.799999237060547,
+    "fiber_100g": 0.5,
+    "saturated-fat_100g": 18.670000076293945,
+    "carbohydrates_100g": 2.299999952316284,
+    "energy-kcal_100g": 361
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "8908010643625",
+   "brands": [
+    "Vallhabha"
+   ],
+   "nutriments": {
+    "carbohydrates_100g": 4.2,
+    "energy-kcal_100g": 278,
+    "fat_100g": 22,
+    "proteins_100g": 16,
+    "saturated-fat_100g": 14.6
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "0208767001920",
+   "nutriments": {
+    "carbohydrates_100g": 3.4,
+    "energy-kcal_100g": 344,
+    "fat_100g": 26.1,
+    "proteins_100g": 23.5,
+    "salt_100g": 0.5,
+    "saturated-fat_100g": 18,
+    "sodium_100g": 0.2
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "0797677100170",
+   "brands": [
+    "NANAK"
+   ],
+   "nutriments": {
+    "carbohydrates_100g": 3.33,
+    "energy-kcal_100g": 300,
+    "fat_100g": 23.3,
+    "proteins_100g": 20,
+    "salt_100g": 0.0417,
+    "saturated-fat_100g": 16.7,
+    "sodium_100g": 0.0167,
+    "sugars_100g": 3.33
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "0797677706303",
+   "nutriments": {
+    "carbohydrates_100g": 3.33,
+    "energy-kcal_100g": 300,
+    "fat_100g": 23.3,
+    "fiber_100g": 0,
+    "proteins_100g": 20,
+    "salt_100g": 0.0417,
+    "saturated-fat_100g": 16.7,
+    "sodium_100g": 0.0167,
+    "sugars_100g": 3.33
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "5035251001082",
+   "nutriments": {
+    "carbohydrates_100g": 4.1,
+    "energy-kcal_100g": 347,
+    "fat_100g": 27.7,
+    "proteins_100g": 20.9,
+    "salt_100g": 0.5,
+    "saturated-fat_100g": 17.4,
+    "sodium_100g": 0.2,
+    "sugars_100g": 3.9
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "3383388338338338",
+   "nutriments": {
+    "carbohydrates_100g": 2.5,
+    "energy-kj_100g": 1072,
+    "fat_100g": 20,
+    "proteins_100g": 17,
+    "saturated-fat_100g": 13.1,
+    "sugars_100g": 0.5
+   },
+   "product_name": "Paneer"
+  },
+  {
+   "code": "6262430002014",
+   "brands": [
+    "Continental"
+   ],
+   "nutriments": {
+    "carbohydrates_100g": 2.29999995231628,
+    "energy-kcal_100g": 361,
+    "energy-kj_100g": 1500,
+    "fat_100g": 28.1000003814697,
+    "fiber_100g": 0.5,
+    "proteins_100g": 24.7999992370605,
+    "salt_100g": 0.07,
+    "saturated-fat_100g": 18.6700000762939,
+    "sodium_100g": 0.028,
+    "sugars_100g": 1.60000002384186
+   },
+   "product_name": "Paneer"
+  }
+ ],
+ "aggregations": null,
+ "facets": {},
+ "charts": {},
+ "page": 1,
+ "page_size": 10,
+ "page_count": 30,
+ "took": 4,
+ "timed_out": false,
+ "count": 296,
+ "is_count_exact": true,
+ "warnings": null
+}
